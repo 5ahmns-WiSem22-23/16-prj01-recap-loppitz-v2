@@ -1,28 +1,23 @@
-# Template2D-Unity202015f1
+# Recap Project
 
-### Project description: 
-Introduction/Project summary 
+### Project description:
+You're a dog, who is trying to lose those holiday-extra-pounds. Navigate around the gym to find the much needed weight plates and bring them back to your spot at the rack. Due to their weight, you can only carry them one by one! Stay away from cookies, but keep your eyes open for Preworkout!
 
-### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+### Development platform:
+Windows 10, Unity 2020.1.5f1, Visual Studio 2019
 
-### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+### Target platform:
 
-### Visuals: 
-Screenshots (concept and experience), Video
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+### Visuals:
+### Project state:
+work in progress
 
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
-### Project state: 
-incl. progress in percent
 
 ### Limitations: 
-
+my brain
 ### Lessons Learned: 
 
-Copyright by you :)
+
+Copyright by Louis
