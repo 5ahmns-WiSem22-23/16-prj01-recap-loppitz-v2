@@ -7,18 +7,9 @@ You're a dog who is trying to lose those holiday-extra-pounds. Navigate around t
 ### Development platform:
 Windows 10, Unity 2020.1.5f1, Visual Studio 2019
 
-### Target platform:
 
-
-### Visuals:
 ### Project state:
 work in progress
-
-
-
-### Limitations: 
-my brain
-### Lessons Learned: 
 
 
 Copyright by Louis
