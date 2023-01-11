@@ -5,6 +5,7 @@ public class CollectablesSpawn : MonoBehaviour
 {
 
     public GameObject[] plates;
+    public int plateCount = 1;
 
     public CollectablesManager collectablesManager;
 
@@ -13,12 +14,12 @@ public class CollectablesSpawn : MonoBehaviour
     void Start()
     {
 
-        for (int i = 1; i < plates.Length; i++)
+        for (int i = 1; i < plateCount; i--)
         {
             plates[i].SetActive(false);
         }
 
-        for (int i = 0; i < plates.Length; i++)
+        for (int i = 0; i < plateCount; i--)
         {
             SpawnCollectables(plates[i]);
         }
